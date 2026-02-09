@@ -154,4 +154,5 @@ while True:
         sair()
         break
     else:
+
         invalido()
